@@ -2,7 +2,7 @@
 **********************************************************************************************************************************
 This is an open source project for develop a bench with sensors for measure mechanical effiency of brushless motors and propellers
 **********************************************************************************************************************************
-This project have three main parts :
+This project have three main parts :                                                                                               
 Mainboard - Eagle 7.6.0.                                                                                                                  
 The bench - Acrylic laser cut pieces.                                                                                                             
 GUI software for control, display and save the imput data from the bench - Processing.                                                                                  
